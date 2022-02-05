@@ -19,4 +19,4 @@
 ## 👉 Take a look at my projects:
 
 - To-do List [[Repository]](https://github.com/Sans-arch/frontend-challenge): https://frontend-challenge-zeta.vercel.app/
-- Pokedex [[Repository]](https://github.com/Sans-arch/pokedex): https://jolly-cori-17ab25.netlify.app/
+- Pokedex [[Repository]](https://github.com/Sans-arch/pokedex): https://mypokedexproject.netlify.app/
