@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&center=true&vCenter=true&width=1050&height=35&lines=Hello%2C+I'm+Santiago%2C+a+Software+Developer+%F0%9F%99%8B%F0%9F%8F%BB;React+%7C+NodeJS+%7C+Java;I+study+Software+Engineering+at+Cat%C3%B3lica+SC+%F0%9F%93%95)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sans-arch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=6495ED&bg_color=0d1117" alt="Santiago Fleitas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sans-arch&layout=compact&hide_border=true&title_color=00bfbf&text_color=6495ED&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sans-arch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=6495ED&bg_color=0d1117" alt="Santiago Fleitas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sans-arch&layout=compact&hide_border=true&title_color=00bfbf&text_color=6495ED&bg_color=0d1117" />
 </div>
 
 &nbsp;
