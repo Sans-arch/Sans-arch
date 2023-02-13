@@ -44,6 +44,7 @@
 
 ### Learning:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=110&section=footer"/>
