@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=110&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&center=true&vCenter=true&width=1050&height=35&lines=Hello%2C+I'm+Santiago%2C+a+Software+Developer+%F0%9F%99%8B%F0%9F%8F%BB;React+%7C+NodeJS+%7C+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&center=true&vCenter=true&width=1050&height=35&lines=Hello%2C+I'm+Santiago%2C+a+Software+Developer+%F0%9F%99%8B%F0%9F%8F%BB;React+%7C+NodeJS+%7C+Java+%7C+Spring)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sans-arch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=6495ED&bg_color=0d1117" alt="Santiago Fleitas github stats" /> 
